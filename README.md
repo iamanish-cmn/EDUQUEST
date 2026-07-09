@@ -53,39 +53,6 @@ EquQuest/
 │── package.json
 │── vite.config.ts
 │── README.md
-```
-
-## 🚀 Getting Started
-
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/EquQuest.git
-```
-
-### Navigate to the project
-
-```bash
-cd EquQuest
-```
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Start the development server
-
-```bash
-npm run dev
-```
-
-The application will run locally at:
-
-```text
-http://localhost:5173
-```
 
 ## 📸 Key Modules
 
@@ -135,4 +102,4 @@ This project is developed for educational and portfolio purposes.
 
 **Veena Anish**
 
-If you found this project helpful, consider giving it a ⭐ on GitHub!
+If you found this project helpful, consider giving it a ⭐ on github
